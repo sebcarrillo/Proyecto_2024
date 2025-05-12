@@ -19,3 +19,6 @@ Esta metodología permitió llevar un control ordenado del avance del proyecto y
 Commit 1: Metodología del proyecto añadida.  
 
 commit 2: Ajustes en la metodologia
+
+---  
+Commit 3: Actualización final para cumplir con los 3 commits.  
