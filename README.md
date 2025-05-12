@@ -14,3 +14,6 @@ Este proyecto fue desarrollado siguiendo una metodología estructurada que inclu
 
 Esta metodología permitió llevar un control ordenado del avance del proyecto y garantizar la calidad del producto final.
 
+
+---  
+Commit 1: Metodología del proyecto añadida.  
